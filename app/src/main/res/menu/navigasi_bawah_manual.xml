@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/beranda_manual"
+        android:title="Beranda"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+    <item
+        android:id="@+id/input_produk"
+        android:title="Produk"
+        android:icon="@drawable/ic_round_playlist_add_24"
+        />
+    <item
+        android:id="@+id/input_penjual"
+        android:title=""
+        />
+    <item
+        android:id="@+id/data_penjual"
+        android:title="Data"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+        />
+    <item
+        android:id="@+id/pengaturan_manual"
+        android:title="Pengaturan"
+        android:icon="@drawable/ic_baseline_settings_24"
+        />
+</menu>

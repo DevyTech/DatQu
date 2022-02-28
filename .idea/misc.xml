@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/btn_pilih_sistem.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/btn_qrcode.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/btn_simpan_data.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/btn_simpan_scan.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/btn_sistem_manual.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_access_time_100.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_android_50.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_article_24.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_assignment_turned_in_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_bar_chart_50.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_brightness_4_50.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_calendar_today_32.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_chrome_reader_mode_32.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_create_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_data_usage_24.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_description_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_flash_on_24.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_format_list_bulleted_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_insert_drive_file_24.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_list_alt_24.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_people_alt_24.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_person_add_15.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_person_add_24.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_post_add_24.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_save_alt_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_baseline_warning_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_launcher_Text_background.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_launcher_foreground_Text.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_round_add_24.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_round_post_add_100.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_round_post_add_24.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/drawable/ic_round_post_add_52.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout-v21/fragment_data.xml" value="0.20416666666666666" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/activity_aturwaktu.xml" value="0.22" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/activity_generate_qrcode.xml" value="0.22" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/activity_input_karyawan.xml" value="0.20416666666666666" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/activity_lihat_data_penjualan.xml" value="0.33" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/activity_main.xml" value="0.67" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/activity_main_manual.xml" value="0.15942028985507245" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/activity_main_scan.xml" value="0.15942028985507245" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/activity_pengaturan.xml" value="0.1814814814814815" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/activity_scan.xml" value="0.18885869565217392" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/activity_selection.xml" value="0.33" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/activity_splashscreen.xml" value="0.25" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/activity_ubah_penjualan.xml" value="0.25" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/activity_ubah_produk.xml" value="0.25" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/aturwaktu_dialog.xml" value="0.2" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/bottom_dialog_layout.xml" value="0.25" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/card_pegawai_item.xml" value="0.33" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/card_resultscan.xml" value="0.5" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/card_scan_item.xml" value="0.33" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/carditem_list_data_penjualan.xml" value="0.25" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/custom_list_data_produk.xml" value="0.25" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/custom_list_item.xml" value="0.14719202898550723" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/custom_listview_export.xml" value="0.22" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/custom_listview_export_manual.xml" value="0.13564814814814816" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/custom_listview_export_scan.xml" value="0.1" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/custom_listview_lihat_data_penjualan.xml" value="0.33" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/custom_listview_pegawai.xml" value="0.25" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/custom_listview_pengaturan.xml" value="0.25" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/custom_listview_produk.xml" value="0.25" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/custom_listview_scan.xml" value="0.33" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_bottom_modal.xml" value="0.33" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_bottom_modal_export.xml" value="0.15942028985507245" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_bottom_modal_lihat.xml" value="0.1408514492753623" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_data.xml" value="0.18" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_data_export.xml" value="0.2" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_data_export_manual.xml" value="0.33" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_data_export_scan.xml" value="0.1814814814814815" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_data_group_manual.xml" value="0.25" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_data_group_scan.xml" value="0.16259057971014493" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_data_pegawai.xml" value="0.33" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_data_penjualan.xml" value="0.15942028985507245" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_data_produk.xml" value="0.15942028985507245" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_data_scan.xml" value="0.15942028985507245" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_home_manual.xml" value="0.1814814814814815" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_home_scan.xml" value="0.1814814814814815" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_import.xml" value="0.25" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_input.xml" value="0.25" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_input_pegawai.xml" value="0.33" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_input_penjualan.xml" value="0.33" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_input_produk.xml" value="0.33" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_item_list_dialog_list_dialog.xml" value="0.1814814814814815" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_item_list_dialog_list_dialog_item.xml" value="0.16259057971014493" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_list.xml" value="0.22" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_pengaturan.xml" value="0.25" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_pengaturan_manual.xml" value="0.1814814814814815" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_pengaturan_scan.xml" value="0.15217391304347827" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_result.xml" value="0.25" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_scan.xml" value="0.25" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/fragment_update.xml" value="0.25" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/popup.xml" value="0.25" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/scan_layout.xml" value="0.22" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/scaning_layout.xml" value="0.2" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/tes.xml" value="0.16259057971014493" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/layout/toolbar_cari.xml" value="0.1814814814814815" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/menu/cari.xml" value="0.1814814814814815" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/menu/menu_bottom_modal_export.xml" value="0.33" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/menu/menu_bottom_modal_lihat.xml" value="0.1814814814814815" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/menu/menu_pegawai.xml" value="0.1814814814814815" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/menu/menu_produk.xml" value="0.1814814814814815" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/menu/menu_selection_scan.xml" value="0.1814814814814815" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/menu/navigasi_bawah.xml" value="0.20416666666666666" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/menu/navigasi_bawah_manual.xml" value="0.1814814814814815" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/menu/navigasi_bawah_scan.xml" value="0.1814814814814815" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/menu/spiner_custom.xml" value="0.1814814814814815" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/menu/toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/mipmap-anydpi-v26/ic_launcher_Custom.xml" value="0.10046296296296296" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/mipmap-anydpi-v26/ic_launcher_Text.xml" value="0.2203125" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/mipmap-anydpi-v26/ic_launcher_dataqu.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19583333333333333" />
+        <entry key="..\:/P2MD/Database/app/src/main/res/xml/provider_paths.xml" value="0.17527173913043478" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

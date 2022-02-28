@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/beranda"
+    android:title="Beranda"
+    android:icon="@drawable/ic_baseline_home_24"
+    />
+    <item
+        android:id="@+id/input"
+        android:title="Pegawai"
+        android:icon="@drawable/ic_baseline_person_add_24"
+        />
+    <item
+        android:id="@+id/scan"
+        android:title=""
+        />
+    <item
+        android:id="@+id/data"
+        android:title="Data"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+        />
+    <item
+        android:id="@+id/pengaturan"
+        android:title="Pengaturan"
+        android:icon="@drawable/ic_baseline_settings_24"
+        />
+</menu>

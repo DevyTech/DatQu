@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/ln_show_tgl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_tgl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:width="85dp"
+            android:text="Tanggal " />
+
+        <TextView
+            android:id="@+id/tv_data_show_tgl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=": Tanggal" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/ln_show_produk"
+        android:layout_below="@id/ln_show_tgl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
+        <TextView
+            android:id="@+id/tv_produk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:width="85dp"
+            android:text="Produk"
+            />
+
+        <TextView
+            android:id="@+id/tv_data_show_produk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Produk" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/ln_show_jenis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ln_show_produk"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_jenis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:width="85dp"
+            android:text="Jenis" />
+
+        <TextView
+            android:id="@+id/tv_data_show_jenis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jenis" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/ln_show_qty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ln_show_jenis"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_qty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:width="85dp"
+            android:text="Jumlah" />
+
+        <TextView
+            android:id="@+id/tv_data_show_Qty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Qty" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/ln_show_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ln_show_qty"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:width="85dp"
+            android:text="Total Harga" />
+
+        <TextView
+            android:id="@+id/tv_data_show_Price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Price" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</RelativeLayout>

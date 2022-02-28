@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sistem_Manual.PengaturanManualFragment">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/ll_title_pengaturan_manual"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="#45B300"
+        android:orientation="horizontal">
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pengaturan_manual"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:layout_marginStart="6dp"
+            android:layout_marginLeft="6dp" />
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_below="@id/ll_title_pengaturan_manual"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cdv_logout_manual"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="16dp">
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/img_logout_manual"
+                    android:src="@drawable/ic_baseline_exit_to_app_50"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/tv_logout"
+                    android:layout_centerVertical="true"
+                    style="@style/TextAppearance.AppCompat.Title"
+                    android:layout_toRightOf="@id/img_logout_manual"
+                    android:layout_toEndOf="@id/img_logout_manual"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginLeft="8dp" />
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</RelativeLayout>

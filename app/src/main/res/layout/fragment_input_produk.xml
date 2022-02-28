@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sistem_Manual.InputProdukFragment">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/ll_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#45B300"
+        android:padding="10dp">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/input_produk"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_marginTop="10dp"
+        android:id="@+id/ln_produk_produk"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:layout_below="@id/ll_title"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/til_produk_produk"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:boxBackgroundColor="@android:color/transparent">
+            <androidx.appcompat.widget.AppCompatEditText
+                android:id="@+id/et_produk_produk"
+                android:inputType="text"
+                android:hint="@string/tv_input_produk_penjualan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <requestFocus/>
+        </com.google.android.material.textfield.TextInputLayout>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_marginTop="10dp"
+        android:id="@+id/ln_jenis_produk"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:layout_below="@id/ln_produk_produk"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/til_jenis_produk"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:boxBackgroundColor="@android:color/transparent">
+            <androidx.appcompat.widget.AppCompatEditText
+                android:id="@+id/et_jenis_produk"
+                android:inputType="text"
+                android:hint="@string/tv_input_jenis_penjualan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </com.google.android.material.textfield.TextInputLayout>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_marginTop="10dp"
+        android:id="@+id/ln_price_produk"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:layout_below="@id/ln_jenis_produk"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/til_price_produk"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:boxBackgroundColor="@android:color/transparent">
+            <androidx.appcompat.widget.AppCompatEditText
+                android:id="@+id/et_price_produk"
+                android:inputType="number"
+                android:hint="@string/tv_input_price_penjualan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </com.google.android.material.textfield.TextInputLayout>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/ln_btn_produk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ln_price_produk"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_simpan_produk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_simpan_data"
+            android:text="@string/btn_simpan_produk"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:layout_marginBottom="16dp"/>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</RelativeLayout>

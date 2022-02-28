@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sistem_Scan.DataExportScanFragment">
+
+        <ImageView
+            android:id="@+id/img_export_null"
+            android:layout_width="159dp"
+            android:layout_height="173dp"
+            android:layout_centerInParent="true"
+            android:visibility="gone"
+            android:src="@drawable/ic_round_post_add_100" />
+        <TextView
+            android:id="@+id/tv_export_null"
+            android:layout_below="@id/img_export_null"
+            android:textAlignment="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tidak ada data Export\nSilahkan lakukan export data terlebih dahulu"
+            android:gravity="center_horizontal"
+            android:visibility="gone"/>
+        <ListView
+            android:id="@+id/lv_export"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:visibility="visible"/>
+
+</RelativeLayout>

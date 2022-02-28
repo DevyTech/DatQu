@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.database">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission
+        android:name="android.permission.MANAGE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_dataqu"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_dataqu_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Database">
+        <activity
+            android:name=".Sistem_Manual.UbahProdukActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Sistem_Manual.LihatDataPenjualanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Sistem_Manual.UbahPenjualanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Sistem_Manual.PengaturanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Sistem_Manual.MainActivity_Manual"
+            android:exported="false" />
+        <activity
+            android:name=".SelectionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Sistem_Scan.Generate_qrcode"
+            android:exported="false" />
+        <activity
+            android:name=".Splashscreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Sistem_Scan.MainActivity_Scan"
+            android:exported="true" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.rfid.application.Database.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+    </application>
+
+</manifest>

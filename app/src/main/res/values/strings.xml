@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">DataQu</string>
+    <!-- AppBar DataQu -->
+    <string name="home_fragment">Beranda</string>
+    <string name="scan_fragment">Pemindai</string>
+    <string name="ViewData_fragment">View Data</string>
+    <string name="input_fragment">Pegawai</string>
+    <string name="data_fragment">Data</string>
+    <string name="pengaturan_fragment">Pengaturan</string>
+    <string name="update_fragment">Ubah Data Pegawai</string>
+
+    <string name="beranda_penjualan">Beranda</string>
+    <string name="input_produk">Input Data Produk</string>
+    <string name="input_penjualan">Transaksi</string>
+    <string name="data_penjualan">Data Penjualan</string>
+    <string name="pengaturan_manual">Pengaturan</string>
+    <string name="ubah_penjualan">Ubah Transaksi</string>
+    <string name="lihat_penjualan">Lihat Data</string>
+    <string name="ubah_produk">Ubah Data Produk</string>
+
+    <!--BTN STRING-->
+    <string name="btn_simpan">Simpan Data Pegawai</string>
+    <string name="btn_ubah">Ubah Data</string>
+    <string name="btn_scan">SCAN NOW</string>
+    <string name="btn_jam_1">Pilih Waktu</string>
+    <string name="btn_jam_2">Pilih Waktu</string>
+    <string name="btn_result">Simpan</string>
+    <string name="btn_share_qr">Bagikan QR Code</string>
+    <string name="btn_save_qr">Simpan QR Code</string>
+    <string name="sistem_scan">Sistem Scan</string>
+    <string name="sistem_manual">Sistem Pencatatan</string>
+    <string name="btn_simpan_penjualan">Simpan Transaksi</string>
+    <string name="btn_simpan_produk">Simpan Data Produk</string>
+    <string name="btn_ubah_penjualan">Ubah Transaksi</string>
+    <string name="btn_ubah_produk">Ubah Data Produk</string>
+
+    <!--Devisi Spinner-->
+    <string name="devisi">Pilih Devisi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--EditText-->
+    <string name="et_set_time">Waktu Scan</string>
+
+    <!--Textview-->
+    <string name="tv_pilih_sistem">Pilih Sistem yang ingin digunakan</string>
+    <string name="tv_splash">DataQu</string>
+    <string name="tv_scan">Letakan kode QR pada Kotak Pemindai</string>
+    <string name="lv_nik">NIK</string>
+    <string name="lv_nama">Nama</string>
+    <string name="lv_devisi">Devisi</string>
+    <string name="lv_scan_nik">NIK Pegawai</string>
+    <string name="lv_scan_nama">Nama Pegawai</string>
+    <string name="lv_scan_devisi">Devisi Pegawai</string>
+    <string name="lv_scan_jam">Jam Scan</string>
+    <string name="headline">Headline</string>
+    <string name="subhead">Subhead</string>
+    <string name="waktu_activity">Atur Waktu Scan</string>
+    <string name="tv_dark">Mode Gelap</string>
+    <string name="tv_logout">Ganti Sistem</string>
+    <string name="tv_input_nik">Masukan NIK</string>
+    <string name="tv_input_nama">Masukan Nama</string>
+    <string name="spinner_input_divisi">Pilih Divisi</string>
+
+    <string name="tv_data_pegawai">Pegawai</string>
+    <string name="tv_data_scan">Pemindai</string>
+    <string name="tv_data_export">Rekapan</string>
+
+    <string name="tv_produk_data">Produk</string>
+    <string name="tv_penjualan_data">Penjualan</string>
+
+    <string name="tv_home_pegawai_headline">0</string>
+    <string name="tv_home_scan_headline">0</string>
+    <string name="tv_home_export_headline">0</string>
+
+    <string name="tv_home_subline">Orang</string>
+    <string name="tv_home_export_subline">Data</string>
+
+    <string name="lv_produk">Produk</string>
+    <string name="lv_jenis">Jenis</string>
+    <string name="lv_price">Price</string>
+
+    <!--Penjualan-->
+    <string name="tv_input_tgl_penjualan">Tanggal</string>
+    <string name="tv_input_produk_penjualan">Nama Produk</string>
+    <string name="tv_input_jenis_penjualan">Jenis</string>
+    <string name="tv_input_qty_penjualan">Jumlah Produk</string>
+    <string name="tv_input_price_penjualan">Rp.</string>
+
+    <string name="tv_data_produk">Nama Produk</string>
+    <string name="tv_data_qty">Qty</string>
+    <string name="tv_data_tgl">Tanggal</string>
+
+    <string name="tv_dialog_title">Pilihan</string>
+    <string name="tv_dialog_ubah">Ubah Data</string>
+    <string name="tv_dialog_hapus">Hapus Data</string>
+
+    <string name="tv_dialog_kirim_file">Kirim File</string>
+    <string name="tv_dialog_buka_file">Buka File</string>
+    <string name="tv_dialog_hapus_file">Hapus File</string>
+</resources>

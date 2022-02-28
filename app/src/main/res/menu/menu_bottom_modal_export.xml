@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_kirim_rekap_penjualan"
+        android:title="Kirim File" />
+    <item
+        android:id="@+id/item_buka_rekap_penjualan"
+        android:title="Buka File" />
+    <item
+        android:id="@+id/item_hapus_rekap_penjualan"
+        android:title="Hapus File"/>
+</menu>

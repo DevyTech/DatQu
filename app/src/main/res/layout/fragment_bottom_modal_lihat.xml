@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".Sistem_Manual.BottomModalLihatFragment"
+    android:padding="16dp"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tv_dialog_produk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_dialog_title"
+        android:textSize="16sp"/>
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/item_dialog_ubah"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_dialog_ubah"
+        android:padding="8dp"
+        android:theme="@style/SelectableItemTheme"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        android:drawableStart="@drawable/ic_outline_create_32"
+        android:drawableLeft="@drawable/ic_outline_create_32"
+        android:drawablePadding="16dp"
+        android:gravity="start|center_vertical" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/item_dialog_hapus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_dialog_hapus"
+        android:padding="8dp"
+        android:theme="@style/SelectableItemTheme"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        android:drawableStart="@drawable/ic_baseline_delete_outline_32"
+        android:drawableLeft="@drawable/ic_baseline_delete_outline_32"
+        android:drawablePadding="16dp"
+        android:gravity="start|center_vertical" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
